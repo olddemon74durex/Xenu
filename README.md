@@ -210,4 +210,4 @@ Xenu is available as a complete free version for Windows, including all features
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-24 10:26:24 UTC
+**Last updated:** 2026-10-24 14:17:51 UTC
